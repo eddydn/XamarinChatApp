@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="XamarinChatApp.XamarinChatApp" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="XamarinChatApp" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:icon="@drawable/icon" android:label="XamarinChatApp" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md50a1880d48df980957c2ff3289ac8865d.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="SignIn" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md50a1880d48df980957c2ff3289ac8865d.SignIn" />
+    <provider android:authorities="XamarinChatApp.XamarinChatApp.firebaseinitprovider" android:exported="true" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider" />
+    <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="XamarinChatApp.XamarinChatApp.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.XamarinChatApp.XamarinChatApp" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

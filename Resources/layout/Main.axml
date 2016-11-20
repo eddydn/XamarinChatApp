@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <com.refractored.fab.FloatingActionButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:src="@drawable/ic_send"
+    android:id="@+id/fab"
+    android:tint="@android:color/white"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentEnd="true"
+    
+    />
+
+  <EditText
+    android:layout_toLeftOf="@+id/fab"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Your message"
+    android:id="@+id/input"
+    />
+
+  <ListView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true"
+    android:layout_above="@+id/fab"
+    android:divider="@android:color/transparent"
+    android:dividerHeight="16dp"
+    android:id="@+id/list_of_messages"
+    android:layout_marginBottom="16dp"
+    />
+  
+</RelativeLayout>

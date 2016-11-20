@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Animated.Vector.Drawable\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.UI\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.Utils\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Fragment\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Media.Compat\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.v4\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Vector.Drawable\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Common\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Module\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Common\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Database.Connection\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Database\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Tasks\9.6.1\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Animated.Vector.Drawable\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.UI\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.UI\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.Utils\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Core.Utils\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Fragment\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Fragment\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Media.Compat\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Media.Compat\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.v4\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.v7.RecyclerView\22.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Android.Support.Vector.Drawable\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Common\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Module\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Common\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Database.Connection\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.Firebase.Database\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\reale\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Tasks\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>
